@@ -35,7 +35,7 @@
 > agora para cada tipo de pagamento diferente que surgisse teria que alem de implementar, modificar as rotinas e instruções no Processador de pagamentos, gerando uma "bola de neve".
 o ideal seria:
 ```
-ProcessaPagamentos (objeto){
+ProcessaPagamentos(objeto){
   objeto.valido?
   objeto.cobrar!
 }
