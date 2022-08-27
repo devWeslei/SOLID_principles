@@ -1,6 +1,5 @@
  <h2> pegue um atalho 👇🏻</h2>   
  
-- [Princípios do SOLID](#princ%C3%ADpios-do-solid)
 - [S](#s---single-responsibility-principle)
 - [O](#o---open-closed-principle)
 - [L](#l---liskov-substitution-principle)   
