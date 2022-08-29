@@ -71,8 +71,10 @@ Classes não devem ser forçadas a dependerem de métodos que elas não usam, fo
 um módulo não deve depender de detalhes de implementação de outro módulo diretamente.
 *dependa de uma abstração e não de uma implementação.
 A partir disso, toda implementação que for injetada nesse módulo e respeitar essa abstração(uma interface por exemplo) consegue ser utilizado.
-
-## -----------------é isso!--------------------   
+   
+      
+      
+<h2 align="center">⭐️⭐️ é isso! ⭐️⭐️</h2> 
 
 ## Referência pelo excelente video:
 [SOLID fica FÁCIL com Essas Ilustrações](https://www.youtube.com/watch?v=6SfrO3D4dHM&ab_channel=FilipeDeschamps).
